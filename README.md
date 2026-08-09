@@ -36,9 +36,9 @@ Infinity-Electronics-Landing-Page/
 
 
 ## 🌐 Live Demo
-```
+
 https://infinite-electronic-store-11.netlify.app/
-```
+
 
 
 ## 🎯 Purpose
